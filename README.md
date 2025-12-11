@@ -14,6 +14,5 @@ Bu proje, şık tasarımı ve akıcı kullanıcı deneyimiyle öne çıkan etkil
 <li>🧱 HTML Kodlama: Temiz ve düzenli bir yapı</li>
 <li>🎨 CSS Stillendirme: Modern, estetik ve şık tasarım</li>
 <li>⚡ JavaScript: Dinamik içerikler ve etkileşimli öğeler</li>
-<li>Hem mobil hem masaüstü cihazlara uyumlu duyarlı tasarım</li>
 <li>📱 Responsive Tasarım: Tüm cihazlarla uyumlu görünüm</li>
 </ul>
