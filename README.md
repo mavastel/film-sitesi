@@ -21,8 +21,6 @@ Bu proje, şık tasarımı ve akıcı kullanıcı deneyimiyle öne çıkan etkil
 
 <h2>🎥 Project Demo </h2>
 
-## 🎥 Project Demo
-
 <p align="center">
   <img src="assets/demo.gif" alt="Project Demo" width="900">
 </p>
