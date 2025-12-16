@@ -11,8 +11,14 @@ Bu proje, şık tasarımı ve akıcı kullanıcı deneyimiyle öne çıkan etkil
 <h2>🎬 Projenin Özellikleri</h2>
 
 <ul>
-<li>🧱 HTML Kodlama: Temiz ve düzenli bir yapı</li>
-<li>🎨 CSS Stillendirme: Modern, estetik ve şık tasarım</li>
-<li>⚡ JavaScript: Dinamik içerikler ve etkileşimli öğeler</li>
-<li>📱 Responsive Tasarım: Tüm cihazlarla uyumlu görünüm</li>
+<li>HTML Kodlama: Temiz ve düzenli bir yapı</li>
+<li>CSS Stillendirme: Modern, estetik ve şık tasarım</li>
+<li>JavaScript: Dinamik içerikler ve etkileşimli öğeler</li>
+<li>Responsive Tasarım: Tüm cihazlarla uyumlu görünüm</li>
 </ul>
+
+<hr>
+
+<h2>🎥 Project Demo </h2>
+
+<img src="demo.gif">
